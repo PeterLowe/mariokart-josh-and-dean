@@ -17,6 +17,7 @@
 
 #include <SFML/Graphics.hpp>
 #include "Game.h"
+#include "Licence.h"
 
 /*
 Written by Peter Lowe May 2015
@@ -35,6 +36,7 @@ int main()
 /// </summary>
 Game::Game() : m_window(sf::VideoMode{ 800U,600U,32U }, "MarioKart", sf::Style::Default)
 {			
+	
 }
 
 /// <summary>
@@ -74,6 +76,7 @@ void Game::processEvents()
 
 void Game::update(sf::Time time)
 {
+
 }
 
 void Game::render()

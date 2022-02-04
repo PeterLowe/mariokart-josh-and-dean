@@ -16,6 +16,10 @@ class Licence
 public:
 	Licence();
 	~Licence();	
+	void setUpLicenseScreen(); 
+
+	sf::Texture m_backgroundTexture; // texture for splash screen 
+	sf::Sprite m_backgroundSprite; // sprtie for splash screen 
 
 protected:
 
