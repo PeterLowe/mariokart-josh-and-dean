@@ -1,6 +1,24 @@
+<<<<<<< HEAD
 Josh Jobs:
 1.Timed start screen 
 2.space start screen 
 3. movement
 4. return to screen  
  
+=======
+Dean, Josh
+
+Game Info: Once the game starts running the player will be shown a timed start screen which follows up with a menu where
+the player can press space. After they have pressed space they are shown a screen which shows help, play or exit,
+Help shows the player how to play the game and returns them to the main menu after they press escape.
+If they press the exit the game just closes and if the player presses play they are immediately brough to the game screen.
+When on the main game screen the player can move left and right with the corresponding arrow keys. Should they press the up 
+arrow key mario will begin jumping upwards and will slowly fall back down. Once the player drives off the left or right side of 
+the screen the game ends and brings you back to the main menu.
+
+Work Distribution:
+Dean:
+Menu Interactions, ie help = bring to help screen and then escape brings you back, play opens the main game, and escape exits
+Boundaries and borders
+sprites
+>>>>>>> d9fa26baae736880c435ed6f12c5930f15f278e4
