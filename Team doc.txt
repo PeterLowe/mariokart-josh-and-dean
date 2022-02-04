@@ -1,0 +1,6 @@
+Josh Jobs:
+1.Timed start screen 
+2.space start screen 
+3. movement
+4. return to screen  
+ 
