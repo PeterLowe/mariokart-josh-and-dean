@@ -4,7 +4,7 @@
 #include <iostream>
 
 /// <summary>
-/// \author Peter Lowe
+/// \author Dean Flood
 /// \version 1.0
 /// </summary>
 HelpPage::HelpPage() 
